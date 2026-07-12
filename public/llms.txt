@@ -1,0 +1,111 @@
+# V2 — Generative Engine Optimization Map
+
+> An online swimwear store focused on selling swimwear products through a digital storefront. The brand's full identity, target audience, style direction, and unique offerings are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://v2-411ea91f.zappy5.app
+חנות בגדי ים אונליין עם עיצובים חדשניים שמחמיאים לכל גזרה. כנסי עכשיו לקולקציה החדשה, תהני ממשלוח מהיר ותתכונני לעונה החמה עם סטייל מנצח.
+
+### מותג
+https://v2-411ea91f.zappy5.app/brand
+הסיפור שלנו מתחיל בתשוקה לאופנת ים שמשלבת איכות ללא פשרות. בואי להכיר את החזון, החומרים וההשראה שמגדירים את המותג V2 ומעצבים את החוויה שלך.
+
+### לוקבוק
+https://v2-411ea91f.zappy5.app/lookbook
+דפדפי בין תמונות מעוררות השראה שמציגות את הטרנדים האחרונים בבגדי ים. גלי שילובים מפתיעים, צבעוניות עונתית וסגנונות ייחודיים שישדרגו כל רגע בחוף הים.
+
+### שאלות נפוצות
+https://v2-411ea91f.zappy5.app/faq
+מחפשת מידע על מידות, משלוחים או החזרות? ריכזנו עבורך את כל מה שצריך לדעת במקום אחד. קבלי מענה מהיר וברור כדי שתוכלי להתרכז בבחירת הלוק המושלם.
+
+### צור קשר
+https://v2-411ea91f.zappy5.app/contact
+יש לך שאלה, רעיון או סתם בא לך להגיד שלום? אנחנו פה בשבילך. מלאי את הטופס או צרי קשר ישירות ונחזור אלייך במהירות עם חיוך וסבלנות אין קץ.
+
+### Products
+https://v2-411ea91f.zappy5.app/products
+המוצרים שלנו - V2
+
+### Cart
+https://v2-411ea91f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://v2-411ea91f.zappy5.app/checkout
+תשלום
+
+### Login
+https://v2-411ea91f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://v2-411ea91f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://v2-411ea91f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://v2-411ea91f.zappy5.app/product/:slug
+פרטי המוצר - V2
+
+### Category
+https://v2-411ea91f.zappy5.app/category/:slug
+מוצרים - V2
+
+### תודה שפנית אלינו
+https://v2-411ea91f.zappy5.app/thank-you
+V2 - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://v2-411ea91f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://v2-411ea91f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://v2-411ea91f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About V2
+An online swimwear store focused on selling swimwear products through a digital storefront. The brand's full identity, target audience, style direction, and unique offerings are yet to be defined.
+
+## Services/Products
+- בגדי ים
+
+## Target Audience
+- נשים צעירות טכנולוגיות
+- נשים חובבות כושר
+- נופשות יוקרה
+
+## Industry
+Fashion & Swimwear E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://v2-411ea91f.zappy5.app/sitemap.xml
+- Robots: https://v2-411ea91f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://v2-411ea91f.zappy5.app/llms-full.txt
+- Products (JSON): https://v2-411ea91f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://v2-411ea91f.zappy5.app/product-feed.xml
