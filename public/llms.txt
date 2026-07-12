@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://v2-411ea91f.zappy5.app
+https://example.com
 חנות בגדי ים אונליין עם עיצובים חדשניים שמחמיאים לכל גזרה. כנסי עכשיו לקולקציה החדשה, תהני ממשלוח מהיר ותתכונני לעונה החמה עם סטייל מנצח.
 
 ### מותג
-https://v2-411ea91f.zappy5.app/brand
+https://example.com/brand
 הסיפור שלנו מתחיל בתשוקה לאופנת ים שמשלבת איכות ללא פשרות. בואי להכיר את החזון, החומרים וההשראה שמגדירים את המותג V2 ומעצבים את החוויה שלך.
 
 ### לוקבוק
-https://v2-411ea91f.zappy5.app/lookbook
+https://example.com/lookbook
 דפדפי בין תמונות מעוררות השראה שמציגות את הטרנדים האחרונים בבגדי ים. גלי שילובים מפתיעים, צבעוניות עונתית וסגנונות ייחודיים שישדרגו כל רגע בחוף הים.
 
 ### שאלות נפוצות
-https://v2-411ea91f.zappy5.app/faq
+https://example.com/faq
 מחפשת מידע על מידות, משלוחים או החזרות? ריכזנו עבורך את כל מה שצריך לדעת במקום אחד. קבלי מענה מהיר וברור כדי שתוכלי להתרכז בבחירת הלוק המושלם.
 
 ### צור קשר
-https://v2-411ea91f.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה, רעיון או סתם בא לך להגיד שלום? אנחנו פה בשבילך. מלאי את הטופס או צרי קשר ישירות ונחזור אלייך במהירות עם חיוך וסבלנות אין קץ.
 
 ### Products
-https://v2-411ea91f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - V2
 
 ### Cart
-https://v2-411ea91f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://v2-411ea91f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://v2-411ea91f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://v2-411ea91f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://v2-411ea91f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://v2-411ea91f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - V2
 
 ### Category
-https://v2-411ea91f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - V2
 
 ### תודה שפנית אלינו
-https://v2-411ea91f.zappy5.app/thank-you
+https://example.com/thank-you
 V2 - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://v2-411ea91f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://v2-411ea91f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://v2-411ea91f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ Fashion & Swimwear E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://v2-411ea91f.zappy5.app/sitemap.xml
-- Robots: https://v2-411ea91f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://v2-411ea91f.zappy5.app/llms-full.txt
-- Products (JSON): https://v2-411ea91f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://v2-411ea91f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
